@@ -6,7 +6,6 @@ import { Hero } from '@/components/Hero';
 import { Report } from '@/components/Report';
 import { Solutions } from '@/components/Solutions';
 import { Tax } from '@/components/Tax';
-import { Posts } from '@/components/Posts'
 
 export default function App() {
 	return (
